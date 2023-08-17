@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is **Ellexia Leonie**.\
-I'm an undergraduate student majoring in **Data Science** at Universitas Pembangunan Veteran Jawa Timur.\
+I'm an undergraduate student majoring in **Data Science** at Universitas Pembangunan Veteran Jawa Timur.
 
 <p align="left">
 <a href="https://github.com/EllexiaLeonie">
